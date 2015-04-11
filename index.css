@@ -6,10 +6,16 @@ body {
     position:relative; 
     margins: 0px, 72px;    
 }
+
+ul {
+   list-style-image: url('sqpurple.gif');
+}
+
 .nav {
   background-color: black;
   background-size: cover;
 }
+
 .nav a {
   color: white;
   font-size: 16px;
