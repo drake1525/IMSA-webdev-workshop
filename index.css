@@ -39,6 +39,11 @@
 	font-variant: normal;
 }
 
+.picture-of-room {
+	background-color: #1565C0;
+	background-size: cover;
+}
+
 .Availability {
 	background-color: #1565C0;
 	background-size: cover;
