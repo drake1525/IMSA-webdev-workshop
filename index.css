@@ -42,19 +42,10 @@
 .Availability {
 	background-color: #1565C0;
 	background-size: cover;
-}
- 
- .Availability .container {
- 	position: relative;
- 	top: 64px;
- 	left: 16px;
- 	right: 16px;
- 	background-color: white;
- 	height: 300px;
  }
  .Availability h2 {
  	color: black;
- 	font-size: 48;
+ 	font-size: 64;
  	font-weight: bold;
  	text-align: left;
  	font-family: 'Trebuchet MS', Helvetica, sans-serif;
