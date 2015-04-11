@@ -44,13 +44,11 @@
 	background-size: cover;
  }
  .Availability h2 {
- 	color: black;
- 	font-size: 64;
+ 	color: white;
+ 	font-size: 72;
  	font-weight: bold;
  	text-align: left;
  	font-family: 'Trebuchet MS', Helvetica, sans-serif;
- 	font-style: normal;
- 	font-variant: normal;
  }
  
  .Availability h3 {
