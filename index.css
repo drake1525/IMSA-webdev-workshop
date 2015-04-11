@@ -1,3 +1,11 @@
+html{
+     background-color: #1E88E5;
+}
+
+body {
+    position:relative; 
+    margins: 0px, 100px;    
+}
 .nav {
   background-color: black;
   background-size: cover;
