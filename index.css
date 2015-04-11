@@ -46,13 +46,13 @@
  
  .Availability .container {
  	position: relative;
- 	top: 16px;
+ 	top: 64px;
  	left: 16px;
  	right: 16px;
  	background-color: white;
  }
  .Availability h2 {
- 	color: white;
+ 	color: black;
  	font-size: 48;
  	font-weight: bold;
  	text-align: left;
