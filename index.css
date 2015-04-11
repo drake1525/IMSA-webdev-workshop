@@ -11,8 +11,8 @@
 }
 
 .jumbotron {
-  background-image:url('http://cdn01.wallconvert.com/_media/wallpapers_1920x1080/1/2/paradise-lost-symphony-x-16768.png');
-  height: 500px;
+  background-color: black;
+  height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
 }
