@@ -97,9 +97,10 @@
 }
 
 .about h1 {
-	font-size: 48;
+	font-size: 48px;
 	font-weight: bold;
+	text-align: center;
 }
 .about p {
-	font-size: 32;
+	font-size: 32px;
 }
