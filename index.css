@@ -1,3 +1,7 @@
+.nav {
+  background-color: black;
+  background-size: cover;
+}
 .nav a {
   color: black;
   font-size: 14px;
