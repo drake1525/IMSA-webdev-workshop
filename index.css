@@ -59,18 +59,34 @@
  }
 
 .learn-more {
-  background-color: #f7f7f7;
+  background-color: blue;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  font-style: normal;
+  font-variant: normal;
 }
 
-.learn-more h3 {
-  font-family: 'Shift', sans-serif;
-  font-size: 18px;
+.learn-more h1 {
+  font-size: 48px;
   font-weight: bold;
+  text-align: center;
+  color: white;
+  
+}
+ 
+.learn-more h2 {
+	font-size: 32px;
+	font-weight: bold;
+	left: 16px;
+	color: white;
 }
 
-.learn-more a {
-  color: #00b0ff;
+.learn-more p {
+	font-size: 24px;
+	left: 32px;
+	color: white;
 }
+
+
 .neighborhood-guides {
  background-color: #efefef;
  border-bottom: 1px solid #dbdbdb;
