@@ -18,7 +18,7 @@
 }
 
 .jumbotron {
-  background-color: blue;
+  background-color: #1565C0;
   height: 200px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -40,7 +40,7 @@
 }
 
 .availability {
-	background-color: blue;
+	background-color: #1565C0;
 	background-size: cover;
 }
  
@@ -59,7 +59,7 @@
  }
 
 .learn-more {
-  background-color: blue;
+  background-color: #1565C0;
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
   font-style: normal;
   font-variant: normal;
