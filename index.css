@@ -39,6 +39,26 @@
 	font-variant: normal;
 }
 
+.availability {
+	background-color: black;
+	background-size: cover;
+}
+ 
+ .availability .container {
+ 	position: relative;
+ 	top: 16px;
+ 	background-color: blue;
+ }
+ .availability h2 {
+ 	color: white;
+ 	font-size: 48;
+ 	font-weight: bold;
+ 	text-align: left;
+ 	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+ 	font-style: normal;
+ 	font-variant: normal;
+ }
+
 .learn-more {
   background-color: #f7f7f7;
 }
