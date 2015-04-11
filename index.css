@@ -18,7 +18,7 @@
 }
 
 .jumbotron {
-  background-color: #1565C0;
+  background-color: #1E88E5;
   height: 200px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -40,12 +40,12 @@
 }
 
 .picture-of-room {
-	background-color: #1565C0;
+	background-color: #1E88E5;
 	background-size: cover;
 }
 
 .Availability {
-	background-color: #1565C0;
+	background-color: #1E88E5;
 	background-size: cover;
  }
  .Availability h2 {
@@ -63,7 +63,7 @@
  }
 
 .learn-more {
-  background-color: #1565C0;
+  background-color: #1E88E5;
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
   font-style: normal;
   font-variant: normal;
@@ -93,7 +93,7 @@
 .about {
 	font-family: 'Trebuchet MS', Helvetica, sans-serif;
 	color: white;
-	background-color: #1565C0;
+	background-color: #1E88E5;
 	height: 300;
 }
 
