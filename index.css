@@ -85,16 +85,16 @@
 	color: white;
 }
 
+.about {
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	color: white;
+	background-color: blue;
+}
 
-.neighborhood-guides {
- background-color: #efefef;
- border-bottom: 1px solid #dbdbdb;
+.about h1 {
+	font-size: 48;
+	font-weight: bold;
 }
-.neighborhood-guides h2 {
- color: #393c3d;
- font-size: 24px;
-}
-.neighborhood-guides p {
- font-size: 15px;
- margin-bottom: 13px;
+.about p {
+	font-size: 24;
 }
