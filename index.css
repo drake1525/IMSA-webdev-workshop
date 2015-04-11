@@ -39,16 +39,16 @@
 	font-variant: normal;
 }
 
-.availability {
+.Availability {
 	background-color: #1565C0;
 	background-size: cover;
 }
  
- .availability .container {
+ .Availability .container {
  	position: relative;
  	top: 16px;
  }
- .availability h2 {
+ .Availability h2 {
  	color: white;
  	font-size: 48;
  	font-weight: bold;
