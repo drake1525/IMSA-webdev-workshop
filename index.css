@@ -57,6 +57,12 @@
  	font-style: normal;
  	font-variant: normal;
  }
+ 
+ .Availability h3 {
+ 	color: red;
+ 	font-size: 48;
+ 	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+ }
 
 .learn-more {
   background-color: #1565C0;
