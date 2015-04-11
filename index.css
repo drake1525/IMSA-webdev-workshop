@@ -1,6 +1,6 @@
 .nav a {
-  color: #5a5a5a;
-  font-size: 11px;
+  color: black;
+  font-size: 14px;
   font-weight: bold;
   padding: 14px 10px;
   text-transform: uppercase;
@@ -11,15 +11,15 @@
 }
 
 .jumbotron {
-  background-color: black;
-  height: 250px;
+  background-color: blue;
+  height: 200px;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .jumbotron .container {
   position: relative;
-  top:100px;
+  top:50px;
 }
 
 .jumbotron h1 {
